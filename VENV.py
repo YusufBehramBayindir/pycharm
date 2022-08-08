@@ -1,3 +1,7 @@
+###############################################
+# Virtual Environment (Sanal Ortam)  ve (Package Managment) Paket Yönetimi
+###############################################
+
 # Sanal ortamların listelenmesi:
 # conda env list
 
